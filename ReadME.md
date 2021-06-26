@@ -5,14 +5,14 @@ Pre-processing of data to make good insights and answer some questions.
 After analyzing the dataset, we will answer some of the questions-
 Exploratory Data Analytics
 
-1) How many No. of startups funded each year?
+1) How many no. of startups get funded each year?
 2) How much funding is given to startups in each year?
 3) In which cities the startups maximum number of startups were funded?
 4) In which cities, startups receieved highest funding?
 5) What is the percentage share of each Industry vertical?
 6) What are the type of investment that got the startups funded? How much funding is recieved corresponding to each investment type?
 7) Who are the major investors and how much amount they pumped into startups?
-8) How many startups did the investors funded?
+8) How many startups did the investors fund?
 9) Which were the startups that got the maximum funding?
 
 After doing a thorough analysis, we found out that-
