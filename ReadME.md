@@ -1,7 +1,7 @@
 STARTUP DATA-EXPLORATORY DATA ANALYTICS
 
 Analyzed the dataset of startups containing different parameters such as Funding, Location, Investor ,Industry Vertical and found insights.
-Pre-processing of data to make good insights and answer nsome questions.
+Pre-processing of data to make good insights and answer some questions.
 After analyzing the dataset, we will answer some of the questions-
 Exploratory Data Analytics
 
