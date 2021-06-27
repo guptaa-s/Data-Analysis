@@ -50,3 +50,5 @@ After doing a thorough analysis, we found out that-
    
 9) The highest funding was received by none other than Indian E-Commerce Giant Flipkart with raking in 4.05B USD in funding followed by digital payment company Paytm and cab aggregator OLA with 3.14B USD and 0.98B USD respectively.
  
+Note-For viewing the notebook, paste the notebook's link on the this page.
+https://nbviewer.jupyter.org/
